@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Tyler Chong",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "https://icspark.github.io/build/images/profiles/tyler_c.jpg",
+    "email": "tcchong@hawaii.edu",
+    "phone": "808-388-0313",
+    "website": "https://viltaria.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
@@ -17,23 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "viltaria",
+        "url": "http://github.com/viltaria"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "chongtyler",
+        "url": "https://www.linkedin.com/in/chongtyler/"
       }
     ]
   },
@@ -41,12 +31,11 @@
     {
       "name": "internet of things",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Rasberry PI"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Cybersecurity",
       "keywords": [
       ]
     },
@@ -65,7 +54,7 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
+        "Python",
         "Common Lisp"
       ]
     },
@@ -75,61 +64,67 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-08-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.53",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Amazon",
+      "position": "Software Developer Engineer Intern",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2020-07-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": " Developing Games for Amazon Alexa",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Amazon",
+      "position": "Software Developer Engineer Intern",
+      "website": "",
+      "startDate": "2019-05-01",
+      "endDate": "2019-08-01",
+      "summary": " Developed Games for Amazon Alexa",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Booz Allen Hamilton",
+      "position": "Cybersecurity Intern/Programmer",
+      "website": "",
+      "startDate": "2018-05-01",
+      "endDate": "2019-03-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Utilized data science techniques to enhance cyber incident analysis and response for U.S. Army Cyber",
+        "Contributed to open source projects (TheHive & Cortex) using Scala, Python, and JavaScript to improve active and passive intrusion detection system responses that saved client 100 man hours/year"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "ICSpark",
+      "website": "https://icspark.github.io/",
+      "position": "Mentor",
+      "startDate": "2019",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Every weekend, assisted as a mentor for a semester long classroom / structured environment that teaches kids from Grade 6 - 12 about CSS / HTML / JS.",
+        "Provide one-on-one mentorship during Open Lab"
       ]
     },
     {
@@ -140,25 +135,24 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Chair, ACM Manoa, 2018-2019",
+        "President, UH Grey Hats, 2017-2018"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "First place",
+      "date": "2017",
+      "awarder": "Hawaii Annual Code Challenge 2017",
+      "summary": "This project took first place, beating out 117 other participants and 23 other submissions. Prize money was 5k."
     },
     {
       "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+      "date": "2018",
+      "awarder": "Hawaii Annual Code Challenge 2018",
+      "summary": "This project won first place, beating out 146 other participants and 20 other submissions. Prize money was 4k~."
+    },
   ],
   "references": [
     {
