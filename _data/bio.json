@@ -83,7 +83,7 @@
   "work": [
     {
       "company": "Amazon",
-      "position": "Software Developer Engineer Intern",
+      "position": "Software Developer Engineer",
       "website": "",
       "startDate": "2020-07-01",
       "endDate": "Present",
@@ -144,13 +144,13 @@
     {
       "title": "First place",
       "date": "2017",
-      "awarder": "Hawaii Annual Code Challenge 2017",
+      "awarder": "Hawaii Annual Code Challenge",
       "summary": "This project took first place, beating out 117 other participants and 23 other submissions. Prize money was 5k."
     },
     {
       "title": "First place",
       "date": "2018",
-      "awarder": "Hawaii Annual Code Challenge 2018",
+      "awarder": "Hawaii Annual Code Challenge",
       "summary": "This project won first place, beating out 146 other participants and 20 other submissions. Prize money was 4k~."
     },
   ],
