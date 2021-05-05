@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Tyler Chong",
-    "label": "Student",
-    "picture": "https://icspark.github.io/build/images/profiles/tyler_c.jpg",
+    "label": "Software Developer",
+    "picture": "https://i.imgur.com/ubeRGBt.jpg",
     "email": "tcchong@hawaii.edu",
     "phone": "808-388-0313",
-    "website": "https://viltaria.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "website": "https://tyliec.github.io",
+    "summary": "I am a graduate from the University of Hawaii at Manoa, currently working as a Software Developer.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "github",
-        "username": "viltaria",
-        "url": "http://github.com/viltaria"
+        "username": "tyliec",
+        "url": "http://github.com/tyliec"
       },
       {
         "network": "linkedin",
@@ -51,11 +51,9 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
         "Java",
         "Javascript",
-        "Python",
-        "Common Lisp"
+        "Python"
       ]
     },
     {
@@ -71,10 +69,10 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2020)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2016-08-01",
-      "endDate": "Present",
+      "endDate": "2020-05-22",
       "gpa": "3.53",
       "courses": [
       ]
